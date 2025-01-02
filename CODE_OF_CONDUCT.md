@@ -34,7 +34,7 @@ This Code of Conduct applies to all project spaces, including the repository, is
 
 ## Reporting Issues
 
-If you experience or witness behavior that violates this Code of Conduct, please report it by contacting the maintainers at `project_email@example.com`. All reports will be reviewed and addressed confidentially. The maintainers are committed to resolving conflicts constructively and ensuring the safety and respect of all participants.
+If you experience or witness behavior that violates this Code of Conduct, please report it by contacting the maintainers at `endiba360@gmail.com`. All reports will be reviewed and addressed confidentially. The maintainers are committed to resolving conflicts constructively and ensuring the safety and respect of all participants.
 
 ---
 
