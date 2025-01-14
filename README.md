@@ -20,10 +20,10 @@ An open-source project that generates engaging short stories for bedtime using P
 
 ## 🛠️ Tech Stack
 
-- **Backend**: FastAPI
+- **Backend**: FastAPI/Python
 - **AI Integration**: OpenAI's GPT model
 - **Database**: MongoDB
-- **Frontend**: React/Vue.js
+- **Frontend**: React/TypeScript
 - **Text-to-Speech**: gTTS/pyttsx3
 - **Deployment**: Docker, AWS/Heroku
 
